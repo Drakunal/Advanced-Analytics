@@ -1,257 +1,241 @@
 ,Product,Price
-0,"8"" UnMeat Veg Spicy Pizza",₹ 157 
-1,"8"" Double Cheese Margherita Pizza",₹ 157 
-2,"8"" Feta & Caramelized Onion Pizza",₹ 157 
-3,Whole Wheat Garlic Bread,₹ 54 
-4,Corn Jalapeno Stuff Garlic Bread,₹ 83 
-5,Chicken Tikka Stuff Garlic Bread,₹ 94 
-6,"8"" Golden Corn Pizza",₹ 136 
-7,"8"" Roasted Veggie Pizza",₹ 146 
-8,"8"" Farm Fresh Veggie Pizza",₹ 151 
-9,"8"" Classic Paneer Pizza",₹ 152 
-10,"8"" Indie Chicken Tikka Pizza",₹ 157 
-11,"8"" Peri Peri Paneer Pizza",₹ 157 
-12,"8"" Chicken Makhani Pizza",₹ 162 
-13,"8"" Kadhai Paneer Pizza",₹ 162 
-14,"8"" Chicken Afghani Pizza",₹ 162 
-15,"8"" Kadhai Chicken Pizza",₹ 167 
-16,"8"" Chicken Overload Pizza",₹ 173 
-17,"8"" Feta Chicken Basil Pizza",₹ 183 
-18,Butter Chicken Kulcha Burger,₹ 120 
-19,Butter Paneer Kulcha Burger,₹ 115 
-20,Spicy Dilli Kulcha Burger,₹ 94 
-21,Dal Makhani Kulcha Burger,₹ 104 
-22,Veg Keema Kulcha Burger,₹ 110 
-23,Paneer XL Kulcha Burger,₹ 141 
-24,Fruit Bowl,₹ 159 
-25,Poha,₹ 100 
-26,Egg Roll,₹ 125 
-27,Nutty Gritty - Roasted Peanuts,₹ 32 
-28,Nutty Gritties BBQ Almonds - 21 gm,₹ 36 
-29,Nutty Gritties Sports Mix - 30 gm,₹ 48 
-30,Baked Punjabi Aloo Samosa,₹ 58 
-31,Baked Paneer Samosa,₹ 75 
-32,Baked Bhuna Chicken Samosa,₹ 75 
-33,Poha with Sev,₹ 83 
-34,Aloo Paratha with Pickle,₹ 83 
-35,Aloo Paratha with Marwadi Aloo & Pickle,₹ 116 
-36,Veg Keema Roll,₹ 125 
-37,Idli-Sambhar with Coconut Chutney,₹ 125 
-38,Podi Idli with Coconut Chutney,₹ 125 
-39,Aloo Methi Paratha,₹ 142 
-40,Gobhi Paratha,₹ 150 
-41,Paneer Bhurji Paratha,₹ 200 
-42,Sabudana Khichdi,₹ 83 
-43,Vegetable Khichdi (500gm),₹ 52 
-44,Dal Khichdi & Marwadi Aloo,₹ 73 
-45,Special Dal Khichdi,₹ 76 
-46,Curd Rice (500gm),₹ 78 
-47,Achari Khichdi (500gm),₹ 78 
-48,Classic Rajasthani Dal Papad Khichdi (500gm),₹ 78 
-49,Multigrain Khichdi (500gm),₹ 78 
-50,Achari Khichdi,₹ 83 
-51,Mix Veggies Khichdi,₹ 89 
-52,Moong Mutter Khichdi,₹ 89 
-53,Panch Ratan Khichdi,₹ 89 
-54,Classic Masala Dal Khichdi,₹ 89 
-55,Quinoa Khichdi (500gm),₹ 89 
-56,Butter Tadka Khichdi,₹ 94 
-57,5 Grain Khichdi (High Fiber),₹ 94 
-58,Garlic Tadka Khichdi,₹ 94 
-59,Super-Food Methi Khichdi,₹ 94 
-60,Great Exploration Box,₹ 99 
-61,Peri Peri Cheese Overload Khichdi,₹ 99 
-62,Classic Rajasthani Dal Papad Khichdi,₹ 99 
-63,Dal Palak Khichdi,₹ 99 
-64,Kathiyawadi Masala Khichdi,₹ 99 
-65,Garlic Tadka Khichdi (500gm),₹ 104 
-66,Palak Paneer Khichdi,₹ 104 
-67,Desi Spice Khichdi Box,₹ 104 
-68,Khara Pongal & Mix Veg Poriyal,₹ 104 
-69,Cheesy Arabiatta Khichdi,₹ 104 
-70,Vegetable Khichdi with Punjabi Masala Aloo,₹ 107 
-71,Classic Masala Dal Khichdi & Marwadi Aloo,₹ 110 
-72,Garlic Tadka Khichdi & Marwadi Aloo,₹ 115 
-73,Moong Mutter Khichdi with Achari Aloo,₹ 115 
-74,Dal Palak Khichdi (500gm),₹ 120 
-75,Flavour Fusion Khichdi Box,₹ 120 
-76,Dal Palak Khichdi & Marwadi Aloo,₹ 120 
-77,Mix Veggies Khichdi with Marwadi Aloo,₹ 120 
-78,Panch Ratan Khichdi with Marwadi Aloo,₹ 120 
-79,Classic Rajasthani Dal Papad Khichdi & Marwadi Aloo,₹ 120 
-80,Kathiyawadi Masala Khichdi & Marwadi Aloo,₹ 120 
-81,Butter Tadka Khichdi with Punjabi Masala Aloo,₹ 125 
-82,Palak Paneer Khichdi with Punjabi Masala Aloo,₹ 136 
-83,"Paneer Cracked Wheat Garlicky Salad, Pesto Dressing",₹ 226 
-84,"Chicken Cracked Wheat Garlicky Salad, Pesto Dressing",₹ 243 
-85,Fit Thali,₹ 110 
-86,Fit Thali Paratha Meal,₹ 115 
-87,Fit Thali Keema Chicken,₹ 136 
-88,Fit Thali Keema Chicken Paratha Meal,₹ 141 
-89,"Chana Masala, 2 Kulche Meal",₹ 89 
-90,"Masala Egg curry, 2 Paratha Thali",₹ 89 
-91,Palak Pappu with Steamed Rice,₹ 52 
-92,Homestyle Dal Tadka with Rice,₹ 52 
-93,Rajma Chawal,₹ 57 
-94,Sambar with Steamed Rice,₹ 62 
-95,Tomato Pappu with Steamed Rice,₹ 62 
-96,Tomato Rasam with Steamed Rice,₹ 62 
-97,Black Chana (Usal) with Rice,₹ 62 
-98,Black Chana (Usal) with Paratha,₹ 62 
-99,Garlic Masoor Dal with Rice,₹ 73 
-100,Aloo Mutter with Parathas,₹ 73 
-101,Palak Pappu & Tomato Rasam with Steamed Rice,₹ 76 
-102,Tomato Pappu & Tomato Rasam with Steamed Rice,₹ 76 
-103,Classic Dal Chawal,₹ 78 
-104,Special Rajma Chawal,₹ 78 
-105,Special Homestyle Dal Tadka with Rice,₹ 78 
-106,Dal Khichdi & Mix Veg Poriyal,₹ 78 
-107,Classic Rajma Chawal,₹ 83 
-108,Puliahara with Palak Pappu,₹ 83 
-109,Kotthimiri Chicken with Steamed Rice,₹ 83 
-110,"Garlic Masoor Dal, Mix Veg Poriyal with Paratha",₹ 83 
-111,"Black Chana (Usal), Mix Veg Poriyal with Parathas",₹ 83 
-112,"Black Chana (Usal), Mix Veg Poriyal with Rice",₹ 83 
-113,Special Black Chana (Usal) with Parathas,₹ 83 
-114,Palak Paneer with Rice,₹ 83 
-115,Palak Paneer with Parathas,₹ 83 
-116,"Omelette Curry, 2 Paratha Thali",₹ 89 
-117,"Veg Keema, 2 Paratha Thali",₹ 89 
-118,Chicken Pulusu with Steamed Rice,₹ 89 
-119,Tomato Rasam & Bangaladonpu Vepudu with Steamed Rice,₹ 89 
-120,Sambar & Bangaladonpu Vepudu with Steamed Rice,₹ 89 
-121,Palak Pappu & Thondakai Vepudu with Steamed Rice,₹ 89 
-122,"Aloo Mutter, Dal Tadka & Parathas",₹ 89 
-123,"Garlic Masoor Dal, Mix Veg Poriyal with Rice",₹ 89 
-124,Ghar Ki Chicken Curry (with bone) with Rice,₹ 89 
-125,Mangalorean Chicken (with bone) with Rice,₹ 89 
-126,Kuboos with Parsi Chicken Keema,₹ 89 
-127,Palak Pappu & Bangaladonpu Vepudu with Steamed Rice,₹ 94 
-128,Tomato Pappu & Bangaladonpu Vepudu with Steamed Rice,₹ 94 
-129,Ghar Ki Chicken Curry (with bone) with Paratha,₹ 94 
-130,Mangalorean Chicken (with bone) with Paratha,₹ 94 
-131,Paneer Masala with Rice,₹ 94 
-132,Dhaba Style Chicken Curry (with bone) with Parathas,₹ 94 
-133,Dhaba Style Chicken Curry (with bone) with Rice,₹ 94 
-134,"Yellow Dal Tadka, Aloo Gobhi Adraki, Paratha Thali",₹ 94 
-135,"Yellow Dal Tadka, Soya Masala Sabzi, Paratha Thali",₹ 94 
-136,Tomato Pappu & Thondakai Vepudu with Steamed Rice,₹ 97 
-137,Kuboos with Butter Chicken,₹ 99 
-138,Kotthimiri Kodi Koora & Tomato Pappu with Steamed Rice,₹ 99 
-139,Chicken Pulusu & Palak Pappu with Steamed Rice,₹ 99 
-140,Special Aloo Mutter with Parathas,₹ 99 
-141,Rajma Chawal & Marwadi Aloo,₹ 99 
-142,Paneer Masala with Parathas,₹ 99 
-143,Special Paneer Masala with Parathas,₹ 104 
-144,"Palak Paneer, Dal Tadka & Parathas",₹ 104 
-145,"Palak Paneer, Dal Tadka & Rice",₹ 104 
-146,"Chana Masala, Aloo Gobhi Adraki, Roti Thali",₹ 104 
-147,"Ghar ke Rajma, Aloo Gobhi, Roti Thali",₹ 104 
-148,"Dhaba Style Chicken Curry (with bone), Rajma with Parathas",₹ 110 
-149,"Dhaba Style Chicken Curry (with bone), Rajma with Rice",₹ 110 
-150,Special Ghar Ki Chicken Curry (with bone) with Rice,₹ 110 
-151,"Kadhai Paneer, Soya Masala Sabzi, Roti Thali",₹ 110 
-152,Palak Pappu & Chicken Neyyi Roast with Steamed Rice,₹ 113 
-153,Special Ghar Ki Chicken Curry (with bone) with Paratha,₹ 115 
-154,"Lasooni Methi Paneer, Aloo Gobhi & Roti Thali",₹ 115 
-155,"Kadhai Paneer, Soya Masala Sabzi, Paratha Thali",₹ 115 
-156,"Dal Makhani, Butter Paneer, Paratha Thali",₹ 120 
-157,"Sarson ka Saag, 3 Paratha Meal",₹ 120 
-158,Special Dhaba Style Chicken Curry (with bone) with Parathas,₹ 120 
-159,Special Dhaba Style Chicken Curry (with bone) with Rice,₹ 120 
-160,"Paneer Masala, Rajma & Parathas",₹ 120 
-161,"Paneer Masala, Rajma & Rice",₹ 120 
-162,Paneer Butter Masala with Parathas,₹ 120 
-163,"Lasooni Methi Chicken, Yellow Dal Tadka, Paratha Thali",₹ 131 
-164,Butter Chicken with Parathas,₹ 136 
-165,"Kadhai Chicken, Soya Masala Sabzi, Roti Thali",₹ 136 
-166,"Kadhai Chicken, Soya Masala Sabzi, Paratha Thali",₹ 141 
-167,Fit Thali Butter Chicken Paratha Meal,₹ 146 
-168,"Yellow Dal Tadka, Soya Masala Sabzi & Jeera Pulao",₹ 142 
-169,"Chana Masala, Aloo Gobhi Adraki & Jeera Pulao",₹ 150 
-170,"Dal Makhani, Aloo Gobhi & Jeera Pulao",₹ 159 
-171,"Ghar ke Rajma, Aloo Gobhi & Jeera Pulao",₹ 159 
-172,"Kadhai Paneer, Soya Masala Sabzi & Jeera Pulao",₹ 167 
-173,"Matar Paneer, Aloo Gobhi Adraki & Jeera Pulao",₹ 176 
-174,"Lasooni Methi Paneer, Soya Masala Sabzi & Jeera Pulao",₹ 176 
-175,"Butter Paneer, Aloo Gobhi & Jeera Pulao",₹ 184 
-176,"Lasooni Methi Chicken, Soya Masala Sabzi & Jeera Pulao",₹ 192 
-177,"Butter Chicken, Aloo Gobhi & Jeera Pulao",₹ 200 
-178,"Kadhai Chicken, Soya Masala Sabzi & Jeera Pulao",₹ 209 
-179,Shahi Murgh Biryani,₹ 162 
-180,Chicken Shami Kebab,₹ 99 
-181,Chicken Haleem,₹ 109 
-182,Chicken Seekh Kebab,₹ 124 
-183,"Muradabadi Biryani [Mild, Yakhni Style] Bachelor",₹ 130 
-184,Spicy Chicken Tikka,₹ 134 
-185,Shahi Subz Biryani,₹ 141 
-186,Special Masala Chicken Biryani (Single),₹ 157 
-187,"Muradabadi Biryani [Mild, Yakhni Style] Single",₹ 162 
-188,Lucknowi Boneless Chicken Biryani (Single),₹ 172 
-189,Boneless Chicken Biryani,₹ 173 
-190,Whole Wheat Rotis (3pcs),₹ 32 
-191,Whole Wheat Parathas (3pcs),₹ 49 
-192,Coin Parotta ( 2 pcs ),₹ 58 
-193,Whole Wheat Kulcha (2pcs),₹ 75 
-194,Rice (500g),₹ 80 
-195,Jeera Pulao (Serves 1-2),₹ 100 
-196,Homestyle Dal Tadka (500g),₹ 108 
-197,Rajma (500g),₹ 121 
-198,Ghar Ki Dal (Serves 1-2),₹ 133 
-199,Aloo Gobhi Adraki (Serves 1-2),₹ 133 
-200,Soya Masala Sabzi (Serves 1-2),₹ 133 
-201,Black Chana (Usal) (500g),₹ 150 
-202,Ghar Ka Rajma (Serves 1-2),₹ 159 
-203,Dal Makhani (Serves 1-2),₹ 167 
-204,Chole (Serves 1-2),₹ 167 
-205,Garlic Masoor Dal (500g),₹ 167 
-206,Kadhai Paneer (Serves 1-2),₹ 176 
-207,Lasooni Methi Paneer (Serves 1-2),₹ 209 
-208,Signature Palak Paneer (480g),₹ 209 
-209,Ghar Ki Chicken Curry (with bone) (540g),₹ 209 
-210,Matar Paneer (Serves 1-2),₹ 217 
-211,Lasooni Methi Chicken (Serves 1-2),₹ 226 
-212,Paneer Masala (480g),₹ 226 
-213,Parsi Chicken Keema,₹ 231 
-214,Butter Paneer (Serves 1-2),₹ 234 
-215,Dhaba Style Chicken Curry (with bone) (540g),₹ 234 
-216,Butter Chicken (Serves 1-2),₹ 251 
-217,Kadhai Chicken (Serves 1-2),₹ 251 
-218,Sarson ka Saag (Serves 1-2),₹ 251 
-219,Super Sugarcane,₹ 54 
-220,Classic Masala Chaas,₹ 55 
-221,Tender Coconut Water,₹ 55 
-222,Gud Lemon Soda,₹ 62 
-223,Apple Juice,₹ 84 
-224,Mix Fruit Juice,₹ 84 
-225,Mocha Shake,₹ 84 
-226,Zero Sugar Cola Fizz,₹ 54 
-227,Zero Sugar Lime & Lemon Fizz,₹ 54 
-228,Lemonade Soda,₹ 62 
-229,Lassi,₹ 71 
-230,Original Orange,₹ 108 
-231,Pure Pomegranate,₹ 108 
-232,Badam Kheer,₹ 65 
-233,Elaichi Kesar Kulfi,₹ 112 
-234,Roasted Badam Kulfi,₹ 112 
-235,Turmeric Besan Halwa (200 gm),₹ 65 
-236,Gajar ka Halwa,₹ 150 
-237,The Whole Truth: Almond Choco Fudge Energy Bar,₹ 54 
-238,The Whole Truth: Mocha Almond Fudge Energy Bar,₹ 54 
-239,Banana Walnut Cake,₹ 65 
-240,Chocolate Walnut Brownie,₹ 65 
-241,Mocha Almond Cake,₹ 74 
-242,Rice Kheer,₹ 84 
-243,The Whole Truth: Double Cocoa Protein Bar,₹ 90 
-244,The Whole Truth: Cranberry Protein Bar,₹ 90 
-245,The Whole Truth: Peanut Cocoa Protein Bar,₹ 90 
-246,Moong Dal Halwa,₹ 112 
-247,Chocolate Dip Kulfi,₹ 125 
-248,Mango Ice Cream (Serves 5),₹ 184 
-249,Sitaphal Ice Cream (Serves 5),₹ 189 
-250,Tender Coconut Ice Cream (Serves 5),₹ 189 
-251,Malai Kulfi Ice Cream (Serves 5),₹ 194 
-252,Chocolate Chip Ice Cream (Serves 5),₹ 194 
-253,Caramel Nuts Ice Cream (Serves 5),₹ 194 
-254,Tawa Chicken Keema (Serves 1-2),₹ 243 
-255,Gulab Jamun,₹ 65 
+0,Vegetable Khichdi (500gm),₹ 52 
+1,Dal Khichdi & Marwadi Aloo,₹ 73 
+2,Special Dal Khichdi,₹ 76 
+3,Curd Rice (500gm),₹ 78 
+4,Achari Khichdi (500gm),₹ 78 
+5,Classic Rajasthani Dal Papad Khichdi (500gm),₹ 78 
+6,Multigrain Khichdi (500gm),₹ 78 
+7,Achari Khichdi,₹ 83 
+8,Mix Veggies Khichdi,₹ 89 
+9,Moong Mutter Khichdi,₹ 89 
+10,Panch Ratan Khichdi,₹ 89 
+11,Classic Masala Dal Khichdi,₹ 89 
+12,Quinoa Khichdi (500gm),₹ 89 
+13,Butter Tadka Khichdi,₹ 94 
+14,5 Grain Khichdi (High Fiber),₹ 94 
+15,Garlic Tadka Khichdi,₹ 94 
+16,Super-Food Methi Khichdi,₹ 94 
+17,Great Exploration Box,₹ 99 
+18,Peri Peri Cheese Overload Khichdi,₹ 99 
+19,Classic Rajasthani Dal Papad Khichdi,₹ 99 
+20,Kathiyawadi Masala Khichdi,₹ 99 
+21,Garlic Tadka Khichdi (500gm),₹ 104 
+22,Palak Paneer Khichdi,₹ 104 
+23,Desi Spice Khichdi Box,₹ 104 
+24,Khara Pongal & Mix Veg Poriyal,₹ 104 
+25,Cheesy Arabiatta Khichdi,₹ 104 
+26,Vegetable Khichdi with Punjabi Masala Aloo,₹ 107 
+27,Classic Masala Dal Khichdi & Marwadi Aloo,₹ 110 
+28,Garlic Tadka Khichdi & Marwadi Aloo,₹ 115 
+29,Moong Mutter Khichdi with Achari Aloo,₹ 115 
+30,Flavour Fusion Khichdi Box,₹ 120 
+31,Mix Veggies Khichdi with Marwadi Aloo,₹ 120 
+32,Panch Ratan Khichdi with Marwadi Aloo,₹ 120 
+33,Classic Rajasthani Dal Papad Khichdi & Marwadi Aloo,₹ 120 
+34,Kathiyawadi Masala Khichdi & Marwadi Aloo,₹ 120 
+35,Butter Tadka Khichdi with Punjabi Masala Aloo,₹ 125 
+36,Palak Paneer Khichdi with Punjabi Masala Aloo,₹ 136 
+37,Palak Pappu with Steamed Rice,₹ 52 
+38,Homestyle Dal Tadka with Rice,₹ 52 
+39,Rajma Chawal,₹ 57 
+40,Sambar with Steamed Rice,₹ 62 
+41,Tomato Pappu with Steamed Rice,₹ 62 
+42,Tomato Rasam with Steamed Rice,₹ 62 
+43,Black Chana (Usal) with Rice,₹ 62 
+44,Garlic Masoor Dal with Rice,₹ 73 
+45,Palak Pappu & Tomato Rasam with Steamed Rice,₹ 76 
+46,Tomato Pappu & Tomato Rasam with Steamed Rice,₹ 76 
+47,Classic Dal Chawal,₹ 78 
+48,Special Rajma Chawal,₹ 78 
+49,Special Homestyle Dal Tadka with Rice,₹ 78 
+50,Dal Khichdi & Mix Veg Poriyal,₹ 78 
+51,Puliahara with Palak Pappu,₹ 83 
+52,Kotthimiri Chicken with Steamed Rice,₹ 83 
+53,"Black Chana (Usal), Mix Veg Poriyal with Rice",₹ 83 
+54,Palak Paneer with Rice,₹ 83 
+55,"Masala Egg curry, 2 Paratha Thali",₹ 89 
+56,"Omelette Curry, 2 Paratha Thali",₹ 89 
+57,"Veg Keema, 2 Paratha Thali",₹ 89 
+58,Chicken Pulusu with Steamed Rice,₹ 89 
+59,Tomato Rasam & Bangaladonpu Vepudu with Steamed Rice,₹ 89 
+60,Sambar & Bangaladonpu Vepudu with Steamed Rice,₹ 89 
+61,Palak Pappu & Thondakai Vepudu with Steamed Rice,₹ 89 
+62,"Garlic Masoor Dal, Mix Veg Poriyal with Rice",₹ 89 
+63,Ghar Ki Chicken Curry (with bone) with Rice,₹ 89 
+64,Mangalorean Chicken (with bone) with Rice,₹ 89 
+65,Kuboos with Parsi Chicken Keema,₹ 89 
+66,Palak Pappu & Bangaladonpu Vepudu with Steamed Rice,₹ 94 
+67,Tomato Pappu & Bangaladonpu Vepudu with Steamed Rice,₹ 94 
+68,Paneer Masala with Rice,₹ 94 
+69,Dhaba Style Chicken Curry (with bone) with Rice,₹ 94 
+70,Tomato Pappu & Thondakai Vepudu with Steamed Rice,₹ 97 
+71,Kuboos with Butter Chicken,₹ 99 
+72,Kotthimiri Kodi Koora & Tomato Pappu with Steamed Rice,₹ 99 
+73,Chicken Pulusu & Palak Pappu with Steamed Rice,₹ 99 
+74,Rajma Chawal & Marwadi Aloo,₹ 99 
+75,"Chana Masala, Aloo Gobhi Adraki, Roti Thali",₹ 104 
+76,"Palak Paneer, Dal Tadka & Rice",₹ 104 
+77,"Kadhai Paneer, Soya Masala Sabzi, Roti Thali",₹ 110 
+78,"Dhaba Style Chicken Curry (with bone), Rajma with Rice",₹ 110 
+79,Special Ghar Ki Chicken Curry (with bone) with Rice,₹ 110 
+80,Fit Thali,₹ 110 
+81,Palak Pappu & Chicken Neyyi Roast with Steamed Rice,₹ 113 
+82,"Lasooni Methi Paneer, Aloo Gobhi & Roti Thali",₹ 115 
+83,Special Dhaba Style Chicken Curry (with bone) with Rice,₹ 120 
+84,"Paneer Masala, Rajma & Rice",₹ 120 
+85,"Kadhai Chicken, Soya Masala Sabzi, Roti Thali",₹ 136 
+86,Whole Wheat Garlic Bread,₹ 54 
+87,Corn Jalapeno Stuff Garlic Bread,₹ 83 
+88,Chicken Tikka Stuff Garlic Bread,₹ 94 
+89,"8"" Golden Corn Pizza",₹ 136 
+90,"8"" Roasted Veggie Pizza",₹ 146 
+91,"8"" Farm Fresh Veggie Pizza",₹ 151 
+92,"8"" Classic Paneer Pizza",₹ 152 
+93,"8"" Indie Chicken Tikka Pizza",₹ 157 
+94,"8"" UnMeat Veg Spicy Pizza",₹ 157 
+95,"8"" Double Cheese Margherita Pizza",₹ 157 
+96,"8"" Peri Peri Paneer Pizza",₹ 157 
+97,"8"" Feta & Caramelized Onion Pizza",₹ 157 
+98,"8"" Chicken Makhani Pizza",₹ 162 
+99,"8"" Kadhai Paneer Pizza",₹ 162 
+100,"8"" Chicken Afghani Pizza",₹ 162 
+101,"8"" Kadhai Chicken Pizza",₹ 167 
+102,"8"" Chicken Overload Pizza",₹ 173 
+103,"8"" Feta Chicken Basil Pizza",₹ 183 
+104,"Yellow Dal Tadka, Soya Masala Sabzi & Jeera Pulao",₹ 142 
+105,"Chana Masala, Aloo Gobhi Adraki & Jeera Pulao",₹ 150 
+106,"Dal Makhani, Aloo Gobhi & Jeera Pulao",₹ 159 
+107,"Kadhai Paneer, Soya Masala Sabzi & Jeera Pulao",₹ 167 
+108,"Matar Paneer, Aloo Gobhi Adraki & Jeera Pulao",₹ 176 
+109,"Lasooni Methi Paneer, Soya Masala Sabzi & Jeera Pulao",₹ 176 
+110,"Butter Paneer, Aloo Gobhi & Jeera Pulao",₹ 184 
+111,"Lasooni Methi Chicken, Soya Masala Sabzi & Jeera Pulao",₹ 192 
+112,"Butter Chicken, Aloo Gobhi & Jeera Pulao",₹ 200 
+113,"Kadhai Chicken, Soya Masala Sabzi & Jeera Pulao",₹ 209 
+114,Spicy Dilli Kulcha Burger,₹ 94 
+115,Dal Makhani Kulcha Burger,₹ 104 
+116,Veg Keema Kulcha Burger,₹ 110 
+117,Shahi Murgh Biryani,₹ 162 
+118,Boneless Chicken Biryani,₹ 173 
+119,Chicken Shami Kebab,₹ 99 
+120,Chicken Haleem,₹ 109 
+121,Chicken Seekh Kebab,₹ 124 
+122,"Muradabadi Biryani [Mild, Yakhni Style] Bachelor",₹ 130 
+123,Spicy Chicken Tikka,₹ 134 
+124,Shahi Subz Biryani,₹ 141 
+125,Special Masala Chicken Biryani (Single),₹ 157 
+126,"Muradabadi Biryani [Mild, Yakhni Style] Single",₹ 162 
+127,Lucknowi Boneless Chicken Biryani (Single),₹ 172 
+128,Nutty Gritty - Roasted Peanuts,₹ 32 
+129,Nutty Gritties BBQ Almonds - 21 gm,₹ 36 
+130,Nutty Gritties Sports Mix - 30 gm,₹ 48 
+131,Baked Punjabi Aloo Samosa,₹ 58 
+132,Baked Paneer Samosa,₹ 75 
+133,Baked Bhuna Chicken Samosa,₹ 75 
+134,Poha with Sev,₹ 83 
+135,Aloo Paratha with Pickle,₹ 83 
+136,Poha,₹ 100 
+137,Aloo Paratha with Marwadi Aloo & Pickle,₹ 116 
+138,Egg Roll,₹ 125 
+139,Veg Keema Roll,₹ 125 
+140,Idli-Sambhar with Coconut Chutney,₹ 125 
+141,Podi Idli with Coconut Chutney,₹ 125 
+142,Aloo Methi Paratha,₹ 142 
+143,Gobhi Paratha,₹ 150 
+144,Paneer Bhurji Paratha,₹ 200 
+145,"Chicken Cracked Wheat Garlicky Salad, Pesto Dressing",₹ 243 
+146,"Paneer Cracked Wheat Garlicky Salad, Pesto Dressing",₹ 226 
+147,Whole Wheat Rotis (3pcs),₹ 32 
+148,Jeera Pulao (Serves 1-2),₹ 100 
+149,Dal Makhani (Serves 1-2),₹ 167 
+150,Coin Parotta ( 2 pcs ),₹ 58 
+151,Rice (500g),₹ 80 
+152,Homestyle Dal Tadka (500g),₹ 108 
+153,Ghar Ki Dal (Serves 1-2),₹ 133 
+154,Aloo Gobhi Adraki (Serves 1-2),₹ 133 
+155,Soya Masala Sabzi (Serves 1-2),₹ 133 
+156,Black Chana (Usal) (500g),₹ 150 
+157,Chole (Serves 1-2),₹ 167 
+158,Garlic Masoor Dal (500g),₹ 167 
+159,Kadhai Paneer (Serves 1-2),₹ 176 
+160,Lasooni Methi Paneer (Serves 1-2),₹ 209 
+161,Signature Palak Paneer (480g),₹ 209 
+162,Ghar Ki Chicken Curry (with bone) (540g),₹ 209 
+163,Matar Paneer (Serves 1-2),₹ 217 
+164,Lasooni Methi Chicken (Serves 1-2),₹ 226 
+165,Paneer Masala (480g),₹ 226 
+166,Parsi Chicken Keema,₹ 231 
+167,Butter Paneer (Serves 1-2),₹ 234 
+168,Dhaba Style Chicken Curry (with bone) (540g),₹ 234 
+169,Butter Chicken (Serves 1-2),₹ 251 
+170,Kadhai Chicken (Serves 1-2),₹ 251 
+171,Sarson ka Saag (Serves 1-2),₹ 251 
+172,Mocha Shake,₹ 84 
+173,Super Sugarcane,₹ 54 
+174,Zero Sugar Cola Fizz,₹ 54 
+175,Zero Sugar Lime & Lemon Fizz,₹ 54 
+176,Classic Masala Chaas,₹ 55 
+177,Tender Coconut Water,₹ 55 
+178,Gud Lemon Soda,₹ 62 
+179,Lemonade Soda,₹ 62 
+180,Lassi,₹ 71 
+181,Apple Juice,₹ 84 
+182,Mix Fruit Juice,₹ 84 
+183,Original Orange,₹ 108 
+184,Pure Pomegranate,₹ 108 
+185,Badam Kheer,₹ 65 
+186,Turmeric Besan Halwa (200 gm),₹ 65 
+187,Gajar ka Halwa,₹ 150 
+188,The Whole Truth: Almond Choco Fudge Energy Bar,₹ 54 
+189,The Whole Truth: Mocha Almond Fudge Energy Bar,₹ 54 
+190,Banana Walnut Cake,₹ 65 
+191,Chocolate Walnut Brownie,₹ 65 
+192,Mocha Almond Cake,₹ 74 
+193,Rice Kheer,₹ 84 
+194,The Whole Truth: Double Cocoa Protein Bar,₹ 90 
+195,The Whole Truth: Cranberry Protein Bar,₹ 90 
+196,The Whole Truth: Peanut Cocoa Protein Bar,₹ 90 
+197,Elaichi Kesar Kulfi,₹ 112 
+198,Roasted Badam Kulfi,₹ 112 
+199,Moong Dal Halwa,₹ 112 
+200,Chocolate Dip Kulfi,₹ 125 
+201,Mango Ice Cream (Serves 5),₹ 184 
+202,Sitaphal Ice Cream (Serves 5),₹ 189 
+203,Tender Coconut Ice Cream (Serves 5),₹ 189 
+204,Malai Kulfi Ice Cream (Serves 5),₹ 194 
+205,Chocolate Chip Ice Cream (Serves 5),₹ 194 
+206,Caramel Nuts Ice Cream (Serves 5),₹ 194 
+207,"Dal Makhani, Butter Paneer, Paratha Thali",₹ 120 
+208,Fit Thali Paratha Meal,₹ 115 
+209,"Lasooni Methi Chicken, Yellow Dal Tadka, Paratha Thali",₹ 131 
+210,Black Chana (Usal) with Paratha,₹ 62 
+211,Aloo Mutter with Parathas,₹ 73 
+212,"Garlic Masoor Dal, Mix Veg Poriyal with Paratha",₹ 83 
+213,"Black Chana (Usal), Mix Veg Poriyal with Parathas",₹ 83 
+214,Special Black Chana (Usal) with Parathas,₹ 83 
+215,Palak Paneer with Parathas,₹ 83 
+216,"Chana Masala, 2 Kulche Meal",₹ 89 
+217,"Aloo Mutter, Dal Tadka & Parathas",₹ 89 
+218,"Yellow Dal Tadka, Soya Masala Sabzi, Paratha Thali",₹ 94 
+219,Ghar Ki Chicken Curry (with bone) with Paratha,₹ 94 
+220,Mangalorean Chicken (with bone) with Paratha,₹ 94 
+221,Dhaba Style Chicken Curry (with bone) with Parathas,₹ 94 
+222,"Yellow Dal Tadka, Aloo Gobhi Adraki, Paratha Thali",₹ 94 
+223,Special Aloo Mutter with Parathas,₹ 99 
+224,Paneer Masala with Parathas,₹ 99 
+225,Special Paneer Masala with Parathas,₹ 104 
+226,"Palak Paneer, Dal Tadka & Parathas",₹ 104 
+227,"Dhaba Style Chicken Curry (with bone), Rajma with Parathas",₹ 110 
+228,Special Ghar Ki Chicken Curry (with bone) with Paratha,₹ 115 
+229,"Kadhai Paneer, Soya Masala Sabzi, Paratha Thali",₹ 115 
+230,"Sarson ka Saag, 3 Paratha Meal",₹ 120 
+231,Special Dhaba Style Chicken Curry (with bone) with Parathas,₹ 120 
+232,"Paneer Masala, Rajma & Parathas",₹ 120 
+233,Paneer Butter Masala with Parathas,₹ 120 
+234,Butter Chicken with Parathas,₹ 136 
+235,"Kadhai Chicken, Soya Masala Sabzi, Paratha Thali",₹ 141 
+236,Fit Thali Butter Chicken Paratha Meal,₹ 146 
+237,Whole Wheat Parathas (3pcs),₹ 49 
+238,Whole Wheat Kulcha (2pcs),₹ 75 
+239,Gulab Jamun,₹ 65 

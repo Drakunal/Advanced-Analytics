@@ -1,47 +1,4 @@
 Food,Price
-"8"" UnMeat Veg Spicy Pizza",157
-"8"" Double Cheese Margherita Pizza",157
-"8"" Feta & Caramelized Onion Pizza",157
-Whole Wheat Garlic Bread,54
-Corn Jalapeno Stuff Garlic Bread,83
-Chicken Tikka Stuff Garlic Bread,94
-"8"" Golden Corn Pizza",136
-"8"" Roasted Veggie Pizza",146
-"8"" Farm Fresh Veggie Pizza",151
-"8"" Classic Paneer Pizza",152
-"8"" Indie Chicken Tikka Pizza",157
-"8"" Peri Peri Paneer Pizza",157
-"8"" Chicken Makhani Pizza",162
-"8"" Kadhai Paneer Pizza",162
-"8"" Chicken Afghani Pizza",162
-"8"" Kadhai Chicken Pizza",167
-"8"" Chicken Overload Pizza",173
-"8"" Feta Chicken Basil Pizza",183
-Butter Chicken Kulcha Burger,120
-Butter Paneer Kulcha Burger,115
-Spicy Dilli Kulcha Burger,94
-Dal Makhani Kulcha Burger,104
-Veg Keema Kulcha Burger,110
-Paneer XL Kulcha Burger,141
-Fruit Bowl,159
-Poha,100
-Egg Roll,125
-Nutty Gritty - Roasted Peanuts,32
-Nutty Gritties BBQ Almonds - 21 gm,36
-Nutty Gritties Sports Mix - 30 gm,48
-Baked Punjabi Aloo Samosa,58
-Baked Paneer Samosa,75
-Baked Bhuna Chicken Samosa,75
-Poha with Sev,83
-Aloo Paratha with Pickle,83
-Aloo Paratha with Marwadi Aloo & Pickle,116
-Veg Keema Roll,125
-Idli-Sambhar with Coconut Chutney,125
-Podi Idli with Coconut Chutney,125
-Aloo Methi Paratha,142
-Gobhi Paratha,150
-Paneer Bhurji Paratha,200
-Sabudana Khichdi,83
 Vegetable Khichdi (500gm),52
 Dal Khichdi & Marwadi Aloo,73
 Special Dal Khichdi,76
@@ -62,7 +19,6 @@ Super-Food Methi Khichdi,94
 Great Exploration Box,99
 Peri Peri Cheese Overload Khichdi,99
 Classic Rajasthani Dal Papad Khichdi,99
-Dal Palak Khichdi,99
 Kathiyawadi Masala Khichdi,99
 Garlic Tadka Khichdi (500gm),104
 Palak Paneer Khichdi,104
@@ -73,23 +29,13 @@ Vegetable Khichdi with Punjabi Masala Aloo,107
 Classic Masala Dal Khichdi & Marwadi Aloo,110
 Garlic Tadka Khichdi & Marwadi Aloo,115
 Moong Mutter Khichdi with Achari Aloo,115
-Dal Palak Khichdi (500gm),120
 Flavour Fusion Khichdi Box,120
-Dal Palak Khichdi & Marwadi Aloo,120
 Mix Veggies Khichdi with Marwadi Aloo,120
 Panch Ratan Khichdi with Marwadi Aloo,120
 Classic Rajasthani Dal Papad Khichdi & Marwadi Aloo,120
 Kathiyawadi Masala Khichdi & Marwadi Aloo,120
 Butter Tadka Khichdi with Punjabi Masala Aloo,125
 Palak Paneer Khichdi with Punjabi Masala Aloo,136
-"Paneer Cracked Wheat Garlicky Salad, Pesto Dressing",226
-"Chicken Cracked Wheat Garlicky Salad, Pesto Dressing",243
-Fit Thali,110
-Fit Thali Paratha Meal,115
-Fit Thali Keema Chicken,136
-Fit Thali Keema Chicken Paratha Meal,141
-"Chana Masala, 2 Kulche Meal",89
-"Masala Egg curry, 2 Paratha Thali",89
 Palak Pappu with Steamed Rice,52
 Homestyle Dal Tadka with Rice,52
 Rajma Chawal,57
@@ -97,80 +43,69 @@ Sambar with Steamed Rice,62
 Tomato Pappu with Steamed Rice,62
 Tomato Rasam with Steamed Rice,62
 Black Chana (Usal) with Rice,62
-Black Chana (Usal) with Paratha,62
 Garlic Masoor Dal with Rice,73
-Aloo Mutter with Parathas,73
 Palak Pappu & Tomato Rasam with Steamed Rice,76
 Tomato Pappu & Tomato Rasam with Steamed Rice,76
 Classic Dal Chawal,78
 Special Rajma Chawal,78
 Special Homestyle Dal Tadka with Rice,78
 Dal Khichdi & Mix Veg Poriyal,78
-Classic Rajma Chawal,83
 Puliahara with Palak Pappu,83
 Kotthimiri Chicken with Steamed Rice,83
-"Garlic Masoor Dal, Mix Veg Poriyal with Paratha",83
-"Black Chana (Usal), Mix Veg Poriyal with Parathas",83
 "Black Chana (Usal), Mix Veg Poriyal with Rice",83
-Special Black Chana (Usal) with Parathas,83
 Palak Paneer with Rice,83
-Palak Paneer with Parathas,83
+"Masala Egg curry, 2 Paratha Thali",89
 "Omelette Curry, 2 Paratha Thali",89
 "Veg Keema, 2 Paratha Thali",89
 Chicken Pulusu with Steamed Rice,89
 Tomato Rasam & Bangaladonpu Vepudu with Steamed Rice,89
 Sambar & Bangaladonpu Vepudu with Steamed Rice,89
 Palak Pappu & Thondakai Vepudu with Steamed Rice,89
-"Aloo Mutter, Dal Tadka & Parathas",89
 "Garlic Masoor Dal, Mix Veg Poriyal with Rice",89
 Ghar Ki Chicken Curry (with bone) with Rice,89
 Mangalorean Chicken (with bone) with Rice,89
 Kuboos with Parsi Chicken Keema,89
 Palak Pappu & Bangaladonpu Vepudu with Steamed Rice,94
 Tomato Pappu & Bangaladonpu Vepudu with Steamed Rice,94
-Ghar Ki Chicken Curry (with bone) with Paratha,94
-Mangalorean Chicken (with bone) with Paratha,94
 Paneer Masala with Rice,94
-Dhaba Style Chicken Curry (with bone) with Parathas,94
 Dhaba Style Chicken Curry (with bone) with Rice,94
-"Yellow Dal Tadka, Aloo Gobhi Adraki, Paratha Thali",94
-"Yellow Dal Tadka, Soya Masala Sabzi, Paratha Thali",94
 Tomato Pappu & Thondakai Vepudu with Steamed Rice,97
 Kuboos with Butter Chicken,99
 Kotthimiri Kodi Koora & Tomato Pappu with Steamed Rice,99
 Chicken Pulusu & Palak Pappu with Steamed Rice,99
-Special Aloo Mutter with Parathas,99
 Rajma Chawal & Marwadi Aloo,99
-Paneer Masala with Parathas,99
-Special Paneer Masala with Parathas,104
-"Palak Paneer, Dal Tadka & Parathas",104
-"Palak Paneer, Dal Tadka & Rice",104
 "Chana Masala, Aloo Gobhi Adraki, Roti Thali",104
-"Ghar ke Rajma, Aloo Gobhi, Roti Thali",104
-"Dhaba Style Chicken Curry (with bone), Rajma with Parathas",110
+"Palak Paneer, Dal Tadka & Rice",104
+"Kadhai Paneer, Soya Masala Sabzi, Roti Thali",110
 "Dhaba Style Chicken Curry (with bone), Rajma with Rice",110
 Special Ghar Ki Chicken Curry (with bone) with Rice,110
-"Kadhai Paneer, Soya Masala Sabzi, Roti Thali",110
+Fit Thali,110
 Palak Pappu & Chicken Neyyi Roast with Steamed Rice,113
-Special Ghar Ki Chicken Curry (with bone) with Paratha,115
 "Lasooni Methi Paneer, Aloo Gobhi & Roti Thali",115
-"Kadhai Paneer, Soya Masala Sabzi, Paratha Thali",115
-"Dal Makhani, Butter Paneer, Paratha Thali",120
-"Sarson ka Saag, 3 Paratha Meal",120
-Special Dhaba Style Chicken Curry (with bone) with Parathas,120
 Special Dhaba Style Chicken Curry (with bone) with Rice,120
-"Paneer Masala, Rajma & Parathas",120
 "Paneer Masala, Rajma & Rice",120
-Paneer Butter Masala with Parathas,120
-"Lasooni Methi Chicken, Yellow Dal Tadka, Paratha Thali",131
-Butter Chicken with Parathas,136
 "Kadhai Chicken, Soya Masala Sabzi, Roti Thali",136
-"Kadhai Chicken, Soya Masala Sabzi, Paratha Thali",141
-Fit Thali Butter Chicken Paratha Meal,146
+Whole Wheat Garlic Bread,54
+Corn Jalapeno Stuff Garlic Bread,83
+Chicken Tikka Stuff Garlic Bread,94
+"8"" Golden Corn Pizza",136
+"8"" Roasted Veggie Pizza",146
+"8"" Farm Fresh Veggie Pizza",151
+"8"" Classic Paneer Pizza",152
+"8"" Indie Chicken Tikka Pizza",157
+"8"" UnMeat Veg Spicy Pizza",157
+"8"" Double Cheese Margherita Pizza",157
+"8"" Peri Peri Paneer Pizza",157
+"8"" Feta & Caramelized Onion Pizza",157
+"8"" Chicken Makhani Pizza",162
+"8"" Kadhai Paneer Pizza",162
+"8"" Chicken Afghani Pizza",162
+"8"" Kadhai Chicken Pizza",167
+"8"" Chicken Overload Pizza",173
+"8"" Feta Chicken Basil Pizza",183
 "Yellow Dal Tadka, Soya Masala Sabzi & Jeera Pulao",142
 "Chana Masala, Aloo Gobhi Adraki & Jeera Pulao",150
 "Dal Makhani, Aloo Gobhi & Jeera Pulao",159
-"Ghar ke Rajma, Aloo Gobhi & Jeera Pulao",159
 "Kadhai Paneer, Soya Masala Sabzi & Jeera Pulao",167
 "Matar Paneer, Aloo Gobhi Adraki & Jeera Pulao",176
 "Lasooni Methi Paneer, Soya Masala Sabzi & Jeera Pulao",176
@@ -178,7 +113,11 @@ Fit Thali Butter Chicken Paratha Meal,146
 "Lasooni Methi Chicken, Soya Masala Sabzi & Jeera Pulao",192
 "Butter Chicken, Aloo Gobhi & Jeera Pulao",200
 "Kadhai Chicken, Soya Masala Sabzi & Jeera Pulao",209
+Spicy Dilli Kulcha Burger,94
+Dal Makhani Kulcha Burger,104
+Veg Keema Kulcha Burger,110
 Shahi Murgh Biryani,162
+Boneless Chicken Biryani,173
 Chicken Shami Kebab,99
 Chicken Haleem,109
 Chicken Seekh Kebab,124
@@ -188,21 +127,35 @@ Shahi Subz Biryani,141
 Special Masala Chicken Biryani (Single),157
 "Muradabadi Biryani [Mild, Yakhni Style] Single",162
 Lucknowi Boneless Chicken Biryani (Single),172
-Boneless Chicken Biryani,173
+Nutty Gritty - Roasted Peanuts,32
+Nutty Gritties BBQ Almonds - 21 gm,36
+Nutty Gritties Sports Mix - 30 gm,48
+Baked Punjabi Aloo Samosa,58
+Baked Paneer Samosa,75
+Baked Bhuna Chicken Samosa,75
+Poha with Sev,83
+Aloo Paratha with Pickle,83
+Poha,100
+Aloo Paratha with Marwadi Aloo & Pickle,116
+Egg Roll,125
+Veg Keema Roll,125
+Idli-Sambhar with Coconut Chutney,125
+Podi Idli with Coconut Chutney,125
+Aloo Methi Paratha,142
+Gobhi Paratha,150
+Paneer Bhurji Paratha,200
+"Chicken Cracked Wheat Garlicky Salad, Pesto Dressing",243
+"Paneer Cracked Wheat Garlicky Salad, Pesto Dressing",226
 Whole Wheat Rotis (3pcs),32
-Whole Wheat Parathas (3pcs),49
-Coin Parotta ( 2 pcs ),58
-Whole Wheat Kulcha (2pcs),75
-Rice (500g),80
 Jeera Pulao (Serves 1-2),100
+Dal Makhani (Serves 1-2),167
+Coin Parotta ( 2 pcs ),58
+Rice (500g),80
 Homestyle Dal Tadka (500g),108
-Rajma (500g),121
 Ghar Ki Dal (Serves 1-2),133
 Aloo Gobhi Adraki (Serves 1-2),133
 Soya Masala Sabzi (Serves 1-2),133
 Black Chana (Usal) (500g),150
-Ghar Ka Rajma (Serves 1-2),159
-Dal Makhani (Serves 1-2),167
 Chole (Serves 1-2),167
 Garlic Masoor Dal (500g),167
 Kadhai Paneer (Serves 1-2),176
@@ -218,22 +171,20 @@ Dhaba Style Chicken Curry (with bone) (540g),234
 Butter Chicken (Serves 1-2),251
 Kadhai Chicken (Serves 1-2),251
 Sarson ka Saag (Serves 1-2),251
+Mocha Shake,84
 Super Sugarcane,54
+Zero Sugar Cola Fizz,54
+Zero Sugar Lime & Lemon Fizz,54
 Classic Masala Chaas,55
 Tender Coconut Water,55
 Gud Lemon Soda,62
-Apple Juice,84
-Mix Fruit Juice,84
-Mocha Shake,84
-Zero Sugar Cola Fizz,54
-Zero Sugar Lime & Lemon Fizz,54
 Lemonade Soda,62
 Lassi,71
+Apple Juice,84
+Mix Fruit Juice,84
 Original Orange,108
 Pure Pomegranate,108
 Badam Kheer,65
-Elaichi Kesar Kulfi,112
-Roasted Badam Kulfi,112
 Turmeric Besan Halwa (200 gm),65
 Gajar ka Halwa,150
 The Whole Truth: Almond Choco Fudge Energy Bar,54
@@ -245,6 +196,8 @@ Rice Kheer,84
 The Whole Truth: Double Cocoa Protein Bar,90
 The Whole Truth: Cranberry Protein Bar,90
 The Whole Truth: Peanut Cocoa Protein Bar,90
+Elaichi Kesar Kulfi,112
+Roasted Badam Kulfi,112
 Moong Dal Halwa,112
 Chocolate Dip Kulfi,125
 Mango Ice Cream (Serves 5),184
@@ -253,5 +206,36 @@ Tender Coconut Ice Cream (Serves 5),189
 Malai Kulfi Ice Cream (Serves 5),194
 Chocolate Chip Ice Cream (Serves 5),194
 Caramel Nuts Ice Cream (Serves 5),194
-Tawa Chicken Keema (Serves 1-2),243
+"Dal Makhani, Butter Paneer, Paratha Thali",120
+Fit Thali Paratha Meal,115
+"Lasooni Methi Chicken, Yellow Dal Tadka, Paratha Thali",131
+Black Chana (Usal) with Paratha,62
+Aloo Mutter with Parathas,73
+"Garlic Masoor Dal, Mix Veg Poriyal with Paratha",83
+"Black Chana (Usal), Mix Veg Poriyal with Parathas",83
+Special Black Chana (Usal) with Parathas,83
+Palak Paneer with Parathas,83
+"Chana Masala, 2 Kulche Meal",89
+"Aloo Mutter, Dal Tadka & Parathas",89
+"Yellow Dal Tadka, Soya Masala Sabzi, Paratha Thali",94
+Ghar Ki Chicken Curry (with bone) with Paratha,94
+Mangalorean Chicken (with bone) with Paratha,94
+Dhaba Style Chicken Curry (with bone) with Parathas,94
+"Yellow Dal Tadka, Aloo Gobhi Adraki, Paratha Thali",94
+Special Aloo Mutter with Parathas,99
+Paneer Masala with Parathas,99
+Special Paneer Masala with Parathas,104
+"Palak Paneer, Dal Tadka & Parathas",104
+"Dhaba Style Chicken Curry (with bone), Rajma with Parathas",110
+Special Ghar Ki Chicken Curry (with bone) with Paratha,115
+"Kadhai Paneer, Soya Masala Sabzi, Paratha Thali",115
+"Sarson ka Saag, 3 Paratha Meal",120
+Special Dhaba Style Chicken Curry (with bone) with Parathas,120
+"Paneer Masala, Rajma & Parathas",120
+Paneer Butter Masala with Parathas,120
+Butter Chicken with Parathas,136
+"Kadhai Chicken, Soya Masala Sabzi, Paratha Thali",141
+Fit Thali Butter Chicken Paratha Meal,146
+Whole Wheat Parathas (3pcs),49
+Whole Wheat Kulcha (2pcs),75
 Gulab Jamun,65
